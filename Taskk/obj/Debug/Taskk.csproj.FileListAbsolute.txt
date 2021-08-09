@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Taskk\Taskk\bin\Debug\Taskk.exe.config
+C:\Users\Admin\source\repos\Taskk\Taskk\bin\Debug\Taskk.exe
+C:\Users\Admin\source\repos\Taskk\Taskk\bin\Debug\Taskk.pdb
+C:\Users\Admin\source\repos\Taskk\Taskk\obj\Debug\Taskk.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Taskk\Taskk\obj\Debug\Taskk.Form1.resources
+C:\Users\Admin\source\repos\Taskk\Taskk\obj\Debug\Taskk.Form2.resources
+C:\Users\Admin\source\repos\Taskk\Taskk\obj\Debug\Taskk.Properties.Resources.resources
+C:\Users\Admin\source\repos\Taskk\Taskk\obj\Debug\Taskk.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Taskk\Taskk\obj\Debug\Taskk.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Taskk\Taskk\obj\Debug\Taskk.exe
+C:\Users\Admin\source\repos\Taskk\Taskk\obj\Debug\Taskk.pdb
